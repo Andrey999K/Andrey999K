@@ -1,4 +1,30 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100" alt=""/>
+  <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/Andrey999k/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCyJBQMheyhWfoUIDvPn9bhg">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://vk.com/Andrey999k">
+      <img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://t.me/Andrey_Kutuzovv">
+      <img src="https://img.shields.io/badge/Telegram-30A3E6?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
+
+  <img src="https://komarev.com/ghpvc/?username=Andrey999K&style=flat-square&color=blue" alt=""/>
+  <h1>  
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xhaTA3cjBuc2hwOXlnd3YzZnl5ZGN1bXh2N3l0Nmx0bTN3ajRscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
+</div>
 
 <!--
 **Andrey999K/Andrey999K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +58,7 @@ Here are some ideas to get you started:
       alt="Eugene's GitHub stats"
     />
   </a>
+&nbsp;
    <a href="https://github.com/Andrey999k/Andrey999k/">
     <img
       height="150"
@@ -63,9 +90,3 @@ Here are some ideas to get you started:
 ![Repos](https://badges.pufler.dev/repos/Andrey999k?style=flat-square&color=orange&logo=github&a=0)
 ![Commits](https://badges.pufler.dev/commits/monthly/Andrey999k?style=flat-square&color=orange&logo=github&a=0)
 ![Profile Views](https://badges.pufler.dev/visits/Andrey999k/Andrey999k?style=flat-square&color=orange&logo=github)
-
-### Contacts:
-[![Linkedin Badge](https://img.shields.io/badge/-Andrey999k-yellow?style=flat-square&logo=Linkedin&color=orange&link=https://www.linkedin.com/in/Andrey999k/)](https://www.linkedin.com/in/Andrey999k/)
-[![Vkontakte Badge](https://img.shields.io/badge/-Andrey999k-blue?style=flat-square&logo=Vk&logoColor=white&color=orange&link=https://vk.com/Andrey999k)](https://vk.com/Andrey999k)
-[![Instagram Badge](https://img.shields.io/badge/-Andrey999k-blue?style=flat-square&logo=Instagram&logoColor=white&color=orange&link=https://instagram.com/Andrey999k)](https://instagram.com/Andrey999k)
-[![Buymeacoffee Badge](https://img.shields.io/badge/-Andrey999k-blue?style=flat-square&logo=buymeacoffee&logoColor=white&color=orange&link=https://buymeacoffee.com/Andrey999k)](https://buymeacoffee.com/Andrey999k)
