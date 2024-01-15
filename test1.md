@@ -30,7 +30,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrey999K&theme=solarized_dark)
 
 <!--Данные по коммитам за сутки:-->
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andrey999K&theme=solarized_dark)
+![](https://github-profile-summary-cardsfeatures.vercel.app/api/cards/productive-time?username=Andrey999K&theme=solarized_dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
