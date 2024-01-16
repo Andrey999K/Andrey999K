@@ -1,4 +1,4 @@
-name: generate animation
+name: fullyear calendar
 
 on:
   # run automatically every 24 hours
@@ -16,7 +16,7 @@ on:
 
 
 jobs:
-  generate:
+  fullyear:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -24,7 +24,7 @@ jobs:
 
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: Full-year calendar
+      - name: fullyear calendar
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
