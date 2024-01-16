@@ -32,6 +32,10 @@
 <!--Данные по коммитам за сутки:-->
 ![](https://github-profile-summary-cardsfeatures.vercel.app/api/cards/productive-time?username=Andrey999K&theme=solarized_dark)
 
+<div align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Andrey999K/Andrey999K/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Andrey999K/Andrey999K/blob/output/github-contribution-grid-snake.svg" />

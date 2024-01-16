@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100" alt=""/>
-  <div id="badges" align="center">
+  <img style="margin-bottom: 20px;" src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100" alt=""/>
+  <div style="margin-bottom: 20px;" id="badges" align="center">
     <a href="https://www.linkedin.com/in/Andrey999k/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/Telegram-30A3E6?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
-
   <img src="https://komarev.com/ghpvc/?username=Andrey999K&style=flat-square&color=blue" alt=""/>
   <h1>  
     Hey there
@@ -25,6 +24,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xhaTA3cjBuc2hwOXlnd3YzZnl5ZGN1bXh2N3l0Nmx0bTN3ajRscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt=""/>
 </div>
+
+---
+
+### About me:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=&multiline=true&repeat=false&random=false&width=500&height=50&lines=Hi%2C+everybody%2C+I'm+Andrei.+I'm+interested+in;frontend+development+and+everything+related+to+it.)](https://git.io/typing-svg)
 
 <!--
 **Andrey999K/Andrey999K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,6 +55,10 @@ Here are some ideas to get you started:
 
 "Veni. Vedi. Vici."--->
 
+---
+
+### My stats:
+
 <p align="justify">
   <a href="https://github.com/Andrey999k/Andrey999k/">
     <img
@@ -68,24 +77,40 @@ Here are some ideas to get you started:
   </a>  
 </p>
 
+---
+
+### My contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Andrey999K/Andrey999K/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Andrey999K/Andrey999K/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Andrey999K/Andrey999K/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ### Technologies:
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt=""></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt=""></code>
+<div>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="">&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="">
+</div>
 
 ### Some other stats:
+[![codewars](https://www.codewars.com/users/Andrey999K/badges/large)](https://www.codewars.com/users/Andrey999K)
+
 ![Years](https://badges.pufler.dev/years/Andrey999k?style=flat-square&color=orange&logo=github&a=0)
 ![Repos](https://badges.pufler.dev/repos/Andrey999k?style=flat-square&color=orange&logo=github&a=0)
 ![Commits](https://badges.pufler.dev/commits/monthly/Andrey999k?style=flat-square&color=orange&logo=github&a=0)
