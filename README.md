@@ -61,19 +61,19 @@ Here are some ideas to get you started:
 
 <p align="justify">
   <a href="https://github.com/Andrey999k/Andrey999k/">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Andrey999k&count_private=true&show_icons=true&custom_title=Github%20Status"
-      alt="Eugene's GitHub stats"
-    />
+    <picture height="150">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Andrey999k&count_private=true&show_icons=true&custom_title=Github%20Status&theme=dark&border_color=000000&border_radius=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Andrey999k&count_private=true&show_icons=true&custom_title=Github%20Status&border_radius=10" />
+      <img alt="github-snake" src="https://github-readme-stats.vercel.app/api?username=Andrey999k&count_private=true&show_icons=true&custom_title=Github%20Status&border_radius=10" />
+    </picture>
   </a>
 &nbsp;
    <a href="https://github.com/Andrey999k/Andrey999k/">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey999k&layout=compact&langs_count=6"
-      alt="Eugene's top langs stats"
-    />
+    <picture height="150">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey999k&layout=compact&langs_count=6&theme=dark&border_color=000000&border_radius=10" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey999k&layout=compact&langs_count=6&border_radius=10" />
+      <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey999k&layout=compact&langs_count=6&border_radius=10" />
+    </picture>
   </a>  
 </p>
 
