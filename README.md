@@ -109,8 +109,10 @@ Here are some ideas to get you started:
 </div>
 
 ### Some other stats:
-[![codewars](https://www.codewars.com/users/Andrey999K/badges/large)](https://www.codewars.com/users/Andrey999K)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Andrey999K)](https://github.com/Andrey999K/leetcode-stats)
+#### Codewars:
+[![codewars](https://www.codewars.com/users/Andrey999K/badges/large)](https://www.codewars.com/users/Andrey999K)  
+#### LeetCode:
+[![Andrey999K's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Andrey999K)](https://github.com/Andrey999K/leetcode-stats)
 
 ![Years](https://badges.pufler.dev/years/Andrey999k?style=flat-square&color=orange&logo=github&a=0)
 ![Repos](https://badges.pufler.dev/repos/Andrey999k?style=flat-square&color=orange&logo=github&a=0)
