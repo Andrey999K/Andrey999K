@@ -93,19 +93,20 @@ Here are some ideas to get you started:
 <div>
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="">&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="">&nbsp;&nbsp;&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt=""></a>&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="">&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt=""></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt=""></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </div>
 
 ### Some other stats:
