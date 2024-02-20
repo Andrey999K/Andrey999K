@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img style="margin-bottom: 20px;" src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100" alt=""/>
   <div style="margin-bottom: 20px;" id="badges" align="center">
-    <a href="https://www.linkedin.com/in/Andrey999k/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <a href="https://www.youtube.com/channel/UCyJBQMheyhWfoUIDvPn9bhg">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
